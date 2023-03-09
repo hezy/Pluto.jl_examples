@@ -26,7 +26,7 @@ return s
 end
 
 # ╔═╡ 3ed8bf8f-33e9-4064-9d84-3d44a706c98c
-arr = make_array(1000, 1000)
+arr = make_array(100000, 100000)
 
 # ╔═╡ f586db7d-f147-4b18-8e4f-8b8cca47999a
 plot(arr)
